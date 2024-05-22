@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven Junior Software Engineer with a strong foundation in<br>programming languages such as Ruby, Python and PHP. Passionate about<br>solving complex problems and collaborating with cross-functional teams to<br>deliver high-quality software solutions.
+Results-driven Software Engineer with a strong foundation in<br>programming languages such as Ruby, Python and PHP. Passionate about<br>solving complex problems and collaborating with cross-functional teams to<br>deliver high-quality software solutions.
 
 
 ## 🌐 Socials:
